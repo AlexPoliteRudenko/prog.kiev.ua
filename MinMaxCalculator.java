@@ -1,5 +1,6 @@
 import java.util.Scanner;
 /**
+ * Task 1* (MinMaxCalculator)
  * Нахождение минимума/максимума двух чисел.
  * int max(int a, int b)
  * int min(int a, int b)
